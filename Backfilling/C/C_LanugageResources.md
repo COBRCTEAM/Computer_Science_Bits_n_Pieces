@@ -11,3 +11,8 @@ K.N. King
 [Another site with pdf's](https://www.programmer-books.com/c-programming-a-modern-approach-pdf/)
 
 [All the exercises and projects solutions](https://github.com/williamgherman/c-solutions)
+
+## The preprocessor
+
+[link 1](https://gcc.gnu.org/onlinedocs/cpp/index.html#SEC_Contents)
+
