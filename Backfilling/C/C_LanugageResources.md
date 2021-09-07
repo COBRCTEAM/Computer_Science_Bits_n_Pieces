@@ -16,3 +16,7 @@ K.N. King
 
 [link 1](https://gcc.gnu.org/onlinedocs/cpp/index.html#SEC_Contents)
 
+## The GNU C Library
+
+[The GNU C Library(https://www.gnu.org/software/libc/manual/html_node/index.html#SEC_Contents)
+
