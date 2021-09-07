@@ -14,7 +14,7 @@ K.N. King
 
 ## The preprocessor
 
-[link 1](https://gcc.gnu.org/onlinedocs/cpp/index.html#SEC_Contents)
+[The C Preprocessor](https://gcc.gnu.org/onlinedocs/cpp/index.html#SEC_Contents)
 
 ## The GNU C Library
 
