@@ -12,6 +12,10 @@ K.N. King
 
 [All the exercises and projects solutions](https://github.com/williamgherman/c-solutions)
 
+[Programming in C by R Subburaj[(https://www.google.com/books/edition/Programming_in_C_2nd_Edition/k6ZDDAAAQBAJ?hl=en&gbpv=1&dq=us+both+in+same+program+stdio.h+and+unistd.h&pg=PA359&printsec=frontcover)
+
+[The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+
 ## The preprocessor
 
 [The C Preprocessor](https://gcc.gnu.org/onlinedocs/cpp/index.html#SEC_Contents)
