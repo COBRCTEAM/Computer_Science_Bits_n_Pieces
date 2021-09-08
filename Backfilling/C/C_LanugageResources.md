@@ -24,3 +24,9 @@ K.N. King
 
 [The GNU C Library](https://www.gnu.org/software/libc/manual/html_node/index.html#SEC_Contents)
 
+[I found this resource which details the specifics about individual libraries.](https://pubs.opengroup.org/onlinepubs/9699919799/functions/contents.html  )  
+
+[This one details the use of the link function.](https://pubs.opengroup.org/onlinepubs/9699919799/functions/link.html#tag_16_293  )  
+
+
+[This page details the unistd.h library.  ](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/unistd.h.html )
