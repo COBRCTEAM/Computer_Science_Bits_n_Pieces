@@ -20,6 +20,8 @@ K.N. King
 
 [Codeforwin](https://codeforwin.org)
 
+[Tech on the Net](https://www.techonthenet.com/c_language/index.php)
+
 ### The preprocessor
 
 [The C Preprocessor](https://gcc.gnu.org/onlinedocs/cpp/index.html#SEC_Contents)
